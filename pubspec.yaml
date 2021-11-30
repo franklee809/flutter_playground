@@ -1,0 +1,7 @@
+name: flutter_playground
+
+dependencies:
+  meta: ^1.7.0
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
